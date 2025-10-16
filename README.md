@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-<a href='https://arxiv.org/pdf/2503.12866'><img src='https://img.shields.io/badge/Arxiv-2503.12866-A42C25.svg?logo=arXiv'></a>
+<a href='https://arxiv.org/abs/2510.12150'><img src='https://img.shields.io/badge/Arxiv-2510.12150-A42C25.svg?logo=arXiv'></a>
   <a href="https://github.com/zhoujiahuan1991/NeurIPS2025-KFF"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FNeurIPS2025-KFF&label=KFF&icon=github&color=%233d8bfd&message=&style=flat&tz=UTC"></a>
 </p>
 
