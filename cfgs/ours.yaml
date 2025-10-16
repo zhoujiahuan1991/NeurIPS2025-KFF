@@ -1,0 +1,15 @@
+MODEL:
+  ADAPTATION: ours
+  ARCH: Standard_VITB
+OPTIM:
+  BETA: 0.9
+  LR: 1e-3
+  METHOD: AdamW
+  STEPS: 50
+  WD: 0.01
+  PROMPT_NUM: 8
+  EMA_ALPHA: 0.1
+  TAU: 3.0
+  LAMDA: 1.0
+TEST:
+  BATCH_SIZE: 64
